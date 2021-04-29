@@ -13,9 +13,9 @@ export function InfoBox({ isRed, title, active, cases, total, ...props }) {
         <Typography className="infoBox__title" color="textSecondary">
           <strong>{title}</strong>
         </Typography>
-        <h2 className={`infoBox__cases ${!isRed && "infoBox__cases--green"}`}>
+        <h3 className={`infoBox__cases ${!isRed && "infoBox__cases--green"}`}>
           {cases}
-        </h2>
+        </h3>
         <Typography className="infoBox__total">{total} Total</Typography>
       </CardContent>
     </Card>
