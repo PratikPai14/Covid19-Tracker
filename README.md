@@ -1,5 +1,5 @@
 # Real Time Covid19 Tracker using ReactJS
-## WEBSITE : https://covid19-tracker-2ff98.web.app/
+## Website : https://covid19-tracker-2ff98.web.app/
 
 The following project is a real time tracker of Worldwide Covid-19 Cases. 
 ### The project has following features
