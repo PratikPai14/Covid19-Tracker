@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Real Time Covid19 Tracker using ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The following project is a real time tracker of Worldwide Covid-19 Cases. 
+### The project has following features
+1. the project used ReactJS for frontend development
+2. The covid19 cases data has been sourced from disease.sh website using their API EndPoints
+3.. Country wise covid live cases, recovered and deaths can be seen on the website
+4. Visualization on Map and Line Chart has also been incorporated
+5. Website uses Material UI for styled UI components
+6. React-Chartjs and Chart.js has been used for Graph Visualization
+7. Leaflet has been used for Map Visualization
 
 ## Available Scripts
 
